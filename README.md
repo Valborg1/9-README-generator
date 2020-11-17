@@ -6,3 +6,12 @@ The app is initialized through the use of node.js after which the user is given 
 
 Upon successfully answering all questions, a .md file is generated for the user.
 
+---
+Here is a link to the Video Example:
+
+https://github.com/Valborg1/9-README-generator/blob/master/README-generator-video.webm
+
+Link to the Github Repository:
+
+https://github.com/Valborg1/9-README-generator
+
