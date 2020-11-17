@@ -1,0 +1,24 @@
+{
+  "name": "9-README-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Valborg1/9-README-generator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Valborg1/9-README-generator/issues"
+  },
+  "homepage": "https://github.com/Valborg1/9-README-generator#readme",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "inquirer": "^7.3.3"
+  }
+}
